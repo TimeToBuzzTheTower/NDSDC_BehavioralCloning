@@ -114,8 +114,9 @@ _________________________________________________________________
 
 Following is an illustration of the simulator vehicle driving autonomously on Track 1. The video as a result file (avi) is uploaded on the Github repository.
 
+![alt text][image4]
 <a href="https://youtu.be/BYOy_TRDy3c" target="_blank"><img src="https://i9.ytimg.com/vi/BYOy_TRDy3c/mq2.jpg?sqp=CJWwiu8F&rs=AOn4CLAudyRSZP7uzuBo_BM3bTgsVtkA1A" 
-alt="Final Result: Track 1" width="460" height="220" border="1" /></a>
+alt="Video Link" width="460" height="220" border="1" /></a>
 
 ---
 ## Conclusions and lessons learned
@@ -134,3 +135,7 @@ The field of Deep Learning is a complete new expertise by itself. It would take 
 Further improvements for the project would essentially be:
 * Improved data collection for a better modelling.
 * reducing the number of EPOCHS and exploiting other Neural Networks for a qualitative comparison.
+
+---
+## Github Link
+https://github.com/TimeToBuzzTheTower/NDSDC_BehavioralCloning
